@@ -1,5 +1,5 @@
 # devops-git-demo-repo
-devops-git-demo-repo
-Hey this is my demo devops project
-welcome to the demo
-from my linux machine
+devops-git-demo-repo\n
+Hey this is my demo devops project\n
+welcome to the demo\n
+from my linux machine\n
